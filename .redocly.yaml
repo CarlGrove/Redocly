@@ -2,6 +2,8 @@
 apis:
   sample@v1: 
     root: openapi/openapi.yaml
+  example@v2: 
+    root: openapi/openapi2.yaml
 lint:
   extends:
     - recommended
