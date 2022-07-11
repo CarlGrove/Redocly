@@ -2,6 +2,8 @@ This is an **example** API to demonstrate features of the OpenAPI specification.
 
 # Introduction
 
+[Schema](/ala_1.0.xsd)
+
 This API definition is intended to to be a good starting point for
 describing your API in 
 
